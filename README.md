@@ -6,16 +6,25 @@
 
 Были воспроизведены следующие шаги:
 
-    Запустить приложение IntelliJ IDEA
-    Cоздать новый проект Java2.1
-    Создать и заполнить файлы .gitignore и README.md из
-    https://github.com/netology-code/javaqa-homeworks/blob/master/.gitignore
-    https://github.com/netology-code/javaqa-homeworks/blob/master/programming/report.md
-    Запустить терминал Alt+F12
-    Инициализировать папку командой git init
-    Создать базовое приложение (на основании примера, который рассматривался на лекции), позволяющее воспроизвести ситуацию
-    Добавить и сохранить файлы в локальном репозитории
-    Отправить данные с локального репозитория на GitHub
+1 Запустить приложение IntelliJ IDEA
+
+2 Cоздать новый проект Java2.1
+
+3 Создать и заполнить файлы .gitignore и README.md из
+
+https://github.com/netology-code/javaqa-homeworks/blob/master/.gitignore
+
+https://github.com/netology-code/javaqa-homeworks/blob/master/programming/report.md
+
+4 Запустить терминал Alt+F12
+
+5 Инициализировать папку командой git init
+
+6 Создать базовое приложение (на основании примера, который рассматривался на лекции), позволяющее воспроизвести ситуацию
+
+7 Добавить и сохранить файлы в локальном репозитории
+
+8 Отправить данные с локального репозитория на GitHub
 
 
 ### Было произведено:
